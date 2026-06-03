@@ -1,0 +1,100 @@
+# AnySpot — Generative Engine Optimization Map
+
+> AnySpot is a storage and shelving retail business offering a variety of shelf types and storage units in multiple sizes. The brand focuses on providing practical storage solutions with a seamless shopping experience, combining both home delivery and self-pickup options. The website needs to be visually impressive yet user-friendly, with a built-in admin management system for easy self-editing and customization.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו עולם של פתרונות אחסון ומדפים לכל חדר בבית. קנייה אונליין קלה עם משלוח עד הבית או איסוף עצמי. AnySpot — המקום שבו סדר פוגש סטייל. התחילו לארגן עוד היום!
+
+### פתרונות
+https://example.com/solutions
+מחפשים מחסן לגינה קטן או מדפים חכמים לעסק? אצלנו תמצאו מגוון פתרונות אחסון מודולריים במחירים משתלמים. משלוח מהיר עד הבית או איסוף עצמי בקלות. AnySpot — מכל אחסון, פתרון.
+
+### השראה
+https://example.com/inspiration
+צאו למסע השראה עם גלריה של חללים מאורגנים להפליא. גלו איך מדפים ויחידות אחסון משנים כל בית ועסק. קחו רעיונות, בצעו בקלות — עם משלוח עד הבית או איסוף עצמי. AnySpot מעורר סדר.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על מדפים או יחידת אחסון? צרו קשר עכשיו! הצוות שלנו כאן לייעץ, להתאים פתרון ולעזור עם משלוח עד הבית או איסוף עצמי. AnySpot — שירות אישי, תוצאות מושלמות.
+
+### Products
+https://example.com/products
+המוצרים שלנו - AnySpot
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - AnySpot
+
+### Category
+https://example.com/category/:slug
+מוצרים - AnySpot
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About AnySpot
+AnySpot is a storage and shelving retail business offering a variety of shelf types and storage units in multiple sizes. The brand focuses on providing practical storage solutions with a seamless shopping experience, combining both home delivery and self-pickup options. The website needs to be visually impressive yet user-friendly, with a built-in admin management system for easy self-editing and customization.
+
+## Target Audience
+- מארגני הבית
+- בעלי עסקים קטנים
+- חובבי עשה זאת בעצמך
+
+## Industry
+Storage & Shelving E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
